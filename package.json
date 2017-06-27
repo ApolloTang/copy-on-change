@@ -1,0 +1,13 @@
+{
+  "name": "copy-on-change",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Apollo Tang <tang.apollo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11",
+    "shelljs": "^0.7.8",
+    "yargs": "^8.0.2"
+  }
+}
